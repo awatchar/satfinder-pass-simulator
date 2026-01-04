@@ -10,7 +10,7 @@ This repository provides a **classroom demonstration tool** that drives a Pelco-
 
 ---
 
-## Why this project exists (context)
+## Why this project exists
 
 Many schools can explain satellite passes using slides or videos, but students learn more effectively when they can **see a moving “beam”** that mimics azimuth/elevation behavior. This simulator supports:
 - tactile and visual learning
