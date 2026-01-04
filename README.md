@@ -1,5 +1,5 @@
 # SatFinder Pass Simulator (Pelco-D Pan/Tilt) — Web UI + RS485
-
+![SatFinder Pass Simulator Logo](docs/images/SatFinder%20Pass%20Simulator.png)
 Educational satellite pass simulator: a kid-friendly web UI controlling a Pelco-D pan-tilt spotlight over RS485 (Flask).
 
 This repository provides a **classroom demonstration tool** that drives a Pelco-D (extended absolute) pan-tilt device over **RS485**, allowing teachers and students to run a smooth “satellite pass” motion using only a browser.
