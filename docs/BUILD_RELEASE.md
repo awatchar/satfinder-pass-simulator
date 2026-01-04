@@ -63,5 +63,3 @@ High-level steps:
 
 In onefile mode, PyInstaller unpacks bundled files to a temporary directory and exposes it via `sys._MEIPASS`. ([pyinstaller.org][3])
 Our `resource_path()` helper in `app.py` is designed to work in both dev mode and packaged mode.
-
-````
