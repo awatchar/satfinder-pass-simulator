@@ -21,6 +21,7 @@ This document describes a practical classroom build for the SatFinder Pass Simul
 ---
 
 ## 2) RS485 wiring (general best practice)
+![Pan-Tilt Head Cable to RS485](/docs/images/RS-485.png)
 
 RS485 typically uses a differential pair:
 - `A` (also called `D+` on some adapters)
