@@ -13,6 +13,7 @@ This repository provides a **classroom demonstration tool** that drives a Pelco-
 ## Screenshot
 
 ![Screenshot](docs/images/Screenshot.png)
+![Screenshot-2](docs/images/Screenshot-2.png)
 
 ---
 
