@@ -5,6 +5,7 @@ This document describes a practical classroom build for the SatFinder Pass Simul
 ## 1) Hardware overview
 
 ### Minimum required
+![Hardware](/docs/images/Hardware.png)
 1. **Pelco-D compatible pan/tilt (PTZ/pan-tilt head)**
    - Must support **RS485** and **Pelco-D**
    - Must support **extended absolute pan/tilt** commands (Pan `0x4B`, Tilt `0x4D`) in your tested setup
